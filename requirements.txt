@@ -1,0 +1,22 @@
+# ── RYTHON · requirements.txt ──────────────────────────────────────────────
+# Install all core dependencies:
+#   pip install -r requirements.txt
+
+# ── Core (required) ────────────────────────────────────────────────────────
+flask
+pywebview
+
+# ── Optional: environment & secrets ────────────────────────────────────────
+# python-dotenv
+
+# ── Optional: database ORM (for larger schemas) ────────────────────────────
+# flask-sqlalchemy
+
+# ── Optional: image processing ─────────────────────────────────────────────
+# pillow
+
+# ── Optional: PDF export ───────────────────────────────────────────────────
+# reportlab
+
+# ── Optional: packaging to .exe ────────────────────────────────────────────
+# pyinstaller
