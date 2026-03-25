@@ -7,9 +7,9 @@
 ## Screenshots
 
 | Light Mode | Dark Mode |
-| ![Light Mode](screenshots/light.png) |
+| ![Light Mode](screenshots/light.png) | Note: the Traffic Button colors are only visible upon Hover as demonstrated above
 | ![Dark Mode](screenshots/dark.png) |
-&nbsp; Note: the Traffic Button colors are only visible upon Hover as demonstrated above
+&nbsp;
 | Confirmation Dialog |
 | ![Confirmation Dialog](screenshots/dialog.png) |
 &nbsp;
