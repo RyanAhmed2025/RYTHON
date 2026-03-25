@@ -8,8 +8,10 @@
 
 | Light Mode | Dark Mode |
 |:---:|:---:|
-| ![Light Mode](screenshots/light.png) | ![Dark Mode](screenshots/dark.png) |
-
+| ![Light Mode](screenshots/light.png) |
+|:---:|
+| ![Dark Mode](screenshots/dark.png) |
+&nbsp;
 | Confirmation Dialog |
 |:---:|
 | ![Confirmation Dialog](screenshots/dialog.png) |
